@@ -1,4 +1,4 @@
-# dice-game
+<h1>dice-game</h1>
 
 <h2>Dice Game generator using</h2>
 <ul>
