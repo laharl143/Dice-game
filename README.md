@@ -7,3 +7,5 @@
   <li>js</li>
   <li>DOM manipulation</li>
 </ul>
+
+<h3><em>Instructions: Refresh to generate different outcomes</em></h3>
